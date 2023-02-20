@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Canada</string>
+    <string name="description">Bandera Canada</string>
+    <string name="paisTxtV">País</string>
+    <string name="paisPtxt">Canadá</string>
+    <string name="extencionGtxt">9.985 million km²</string>
+    <string name="DescCanadaTxt">Canadá (en inglés, Canada, AFI: /ˈkænədə/; en francés, Canada, AFI: /kanadɔ/ o /kanada/) es un país soberano en América del Norte, cuya forma de gobierno es la monarquía parlamentaria federal. Su territorio está organizado en diez provincias y tres territorios. Su capital es la ciudad de Ottawa y su ciudad más poblada es Toronto, seguida por Montreal y Vancouver \n\nUbicado en el extremo norte del subcontinente norteamericano, se extiende desde el océano Atlántico al este, el océano Pacífico al oeste, y hacia el norte hasta el océano Ártico. Comparte frontera con los Estados Unidos al sur, al noroeste con su estado federado Alaska y al noreste con Groenlandia, territorio que forma parte del Reino de Dinamarca.</string>
+    <string name="ExtensionLbl">Extensión territorial</string>
+    <string name="canad">Canadá</string>
+</resources>
